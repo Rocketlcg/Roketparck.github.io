@@ -1,3 +1,3 @@
 Bienvenidos a Roket Parck
 
-https://Roketparck.github.io
+https://rocketlcg.github.io/Roketparck.github.io
